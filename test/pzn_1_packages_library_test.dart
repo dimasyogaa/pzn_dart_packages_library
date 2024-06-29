@@ -1,4 +1,4 @@
-import 'package:pzn_1_packages_library/pzn_1_packages_library.dart';
+import 'package:pzn_41_packages_library/pzn_1_packages_library.dart';
 import 'package:test/test.dart';
 
 void main() {
