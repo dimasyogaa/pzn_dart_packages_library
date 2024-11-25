@@ -1,0 +1,13 @@
+git add .
+git commit : change say_hello dart file
+git push origin main
+git tag 1.5.0
+git push origin main --tags
+
+
+git add .
+git commit : upgrade packages
+git push origin main
+git tag 1.5.1
+git push origin main --tags
+
